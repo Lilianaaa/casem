@@ -1,0 +1,57 @@
+[
+  {
+    "id": 111,
+    "name": "Coron Palawan",
+    "imageUrl": "https://i1.trekearth.com/photos/89808/coron.jpg",
+    "price": "743.0",
+    "priceCurrency": "km",
+    "lat": 16.6436,
+    "lng": 120.4488
+  },
+  {
+    "id": 222,
+    "name": "Tagaytay",
+    "imageUrl": "https://ingridnieto.files.wordpress.com/2014/01/6a782-539768_1410613002509871_1558514551_n.jpg",
+    "price": 370.2,
+    "priceCurrency": "km",
+    "lat": 16.5752,
+    "lng": 120.4174
+  },
+  {
+    "id": 333,
+    "name": "Ilocos Norte",
+    "imageUrl": "http://newsinfo.inquirer.net/files/2015/04/windmills.jpg",
+    "price": 209.7,
+    "priceCurrency": "km",
+    "lat": 16.6570,
+    "lng": 120.3209
+  },
+  {
+    "id": 444,
+    "name": "Ilocos Sur",
+    "imageUrl": "https://img00.deviantart.net/a0b8/i/2012/105/1/0/ilocos_vigan_streets_02_by_aerith167-d4w7xg2.jpg",
+    "price": 73.2,
+    "priceCurrency": "km",
+    "lat": 16.8568,
+    "lng": 120.3729
+  },
+
+  {
+    "id": ,
+    "name": "",
+    "imageUrl": "",
+    "price": ,
+    "priceCurrency": "",
+    "lat": 16.6694,
+    "lng": 120.5049
+  },
+   {
+    "id": 212,
+    "name": "Guerero Ave. Poblacion, San Gabriel - My Home Address",
+    "imageUrl": "https://scontent.fmnl6-1.fna.fbcdn.net/v/t1.0-9/37327180_1562365273869373_846559743626444800_n.jpg?_nc_cat=0&oh=c82112028acd0981db248997954c05e5&oe=5BE31D45",
+    "price": "HOME",
+    "priceCurrency": "₱",
+    "lat": 16.6956,
+    "lng": 120.3357
+  }
+]
