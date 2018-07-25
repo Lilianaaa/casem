@@ -37,20 +37,20 @@
   },
 
   {
-    "id": ,
-    "name": "",
-    "imageUrl": "",
-    "price": ,
-    "priceCurrency": "",
+    "id": 555,
+    "name": "Sagada",
+    "imageUrl": "https://giztrendzone.com/wp-content/uploads/2018/01/8586_620x.jpg",
+    "price": 144.6,
+    "priceCurrency": "km",
     "lat": 16.6694,
     "lng": 120.5049
   },
    {
-    "id": 212,
-    "name": "Guerero Ave. Poblacion, San Gabriel - My Home Address",
-    "imageUrl": "https://scontent.fmnl6-1.fna.fbcdn.net/v/t1.0-9/37327180_1562365273869373_846559743626444800_n.jpg?_nc_cat=0&oh=c82112028acd0981db248997954c05e5&oe=5BE31D45",
-    "price": "HOME",
-    "priceCurrency": "₱",
+    "id":213 ,
+    "name": "Batanes",
+    "imageUrl": "https://filipiknow.net/wp-content/uploads/2014/04/Facts-About-Batanes.jpg",
+    "price": "437",
+    "priceCurrency": "km",
     "lat": 16.6956,
     "lng": 120.3357
   }
