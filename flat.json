@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": 111,
     "name": "Coron Palawan",
     "imageUrl": "https://i1.trekearth.com/photos/89808/coron.jpg",
     "price": "743.0",
@@ -9,39 +9,39 @@
     "lng": 120.4488
   },
   {
-    "id": 148,
-    "name": "Tuddingan Falls at Naguilian",
-    "imageUrl": "http://www.traveltothephilippines.info/wp-content/uploads/2017/01/La-Union-Tuddingan-Falls3.jpg",
-    "price": 50,
-    "priceCurrency": "₱",
+    "id": 222,
+    "name": "Tagaytay",
+    "imageUrl": "https://ingridnieto.files.wordpress.com/2014/01/6a782-539768_1410613002509871_1558514551_n.jpg",
+    "price": 370.2,
+    "priceCurrency": "km",
     "lat": 16.5752,
     "lng": 120.4174
   },
   {
-    "id": 201,
-    "name": "Sebay Surf Central at San Juan",
-    "imageUrl": "https://aizaizbeybi.files.wordpress.com/2016/04/dsc_0327a.jpg?w=748",
-    "price": 200,
-    "priceCurrency": "₱",
+    "id": 333,
+    "name": "Ilocos Norte",
+    "imageUrl": "http://newsinfo.inquirer.net/files/2015/04/windmills.jpg",
+    "price": 209.7,
+    "priceCurrency": "km",
     "lat": 16.6570,
     "lng": 120.3209
   },
   {
-    "id": 205,
-    "name": "Baluarte Watch Tower at Luna",
-    "imageUrl": "https://images.summitmedia-digital.com/spotph/images/2017/04/24/la_union_baluarteinside_REV.jpg",
-    "price": 80,
-    "priceCurrency": "₱",
+    "id": 444,
+    "name": "Ilocos Sur",
+    "imageUrl": "https://img00.deviantart.net/a0b8/i/2012/105/1/0/ilocos_vigan_streets_02_by_aerith167-d4w7xg2.jpg",
+    "price": 73.2,
+    "priceCurrency": "km",
     "lat": 16.8568,
     "lng": 120.3729
   },
 
   {
-    "id": 211,
-    "name": "Camp Avenue at San Juan",
-    "imageUrl": "https://q-xx.bstatic.com/images/hotel/max1024x768/143/143858602.jpg",
-    "price": 150,
-    "priceCurrency": "₱",
+    "id": ,
+    "name": "",
+    "imageUrl": "",
+    "price": ,
+    "priceCurrency": "",
     "lat": 16.6694,
     "lng": 120.5049
   },
