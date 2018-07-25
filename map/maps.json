@@ -53,6 +53,60 @@
     "priceCurrency": "km",
     "lat": 16.6956,
     "lng": 120.3357
+  },
+  {
+    "id": 666,
+    "name": "Manila Ocean Park",
+    "imageUrl": "https://fr8wff00-a.akamaihd.net/philippines/wp-content/uploads/2016/09/Photo-from-Manila-Ocean-Park-Blog.jpg",
+    "price": "300.3",
+    "priceCurrency": "km",
+    "lat": 14.5792,
+    "lng": 120.9752
+  },
+  {
+    "id": 777,
+    "name": "National Museum of Natural History",
+    "imageUrl": "https://static.thousandwonders.net/Grigore.Antipa.National.Museum.of.Natural.History.original.8167.jpg",
+    "price":299.2 ,
+    "priceCurrency": "km",
+    "lat": 38.8913,
+    "lng": 77.0261
+  },
+  {
+    "id": 888,
+    "name": "Quezon Memorial Circle",
+    "imageUrl": "https://9968c6ef49dc043599a5-e151928c3d69a5a4a2d07a8bf3efa90a.ssl.cf2.rackcdn.com/143669-3.jpg",
+    "price": 296.2,
+    "priceCurrency": "km",
+    "lat": 14.6516,
+    "lng": 121.0494
+  },
+  {
+    "id": 999,
+    "name": "Rizal Park",
+    "imageUrl": "http://mithunonthe.net/wp-content/uploads/2011/09/rizal-park-luneta-monument-manila-philippines.jpg",
+    "price": 299.5,
+    "priceCurrency": "km",
+    "lat": 14.5831,
+    "lng": 120.9794
+  },
+
+  {
+    "id": 678,
+    "name": "Masungi Georserve, Baras, Rizal, Philippines",
+    "imageUrl": "https://3.bp.blogspot.com/-XKHkGKKGfak/Vmkos74FdjI/AAAAAAAAIHM/esg5tqA9vDA/s1600/CelineismMasungi10.jpg",
+    "price": 335.3,
+    "priceCurrency": "km",
+    "lat": 14.6046,
+    "lng": 121.3192
+  },
+   {
+    "id":789 ,
+    "name": "Mt. Ulap in Baguio",
+    "imageUrl": "http://yuneoh.com/wp-content/uploads/2016/03/Conquer-Mt.-Ulap-view.jpg",
+    "price": "111.8",
+    "priceCurrency": "km",
+    "lat": 16.2900,
+    "lng": 120.6310
   }
-  
 ]
