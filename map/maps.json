@@ -53,15 +53,6 @@
     "priceCurrency": "km",
     "lat": 16.6956,
     "lng": 120.3357
-  },
-   {
-    "id":214 ,
-    "name": "Ocean Park Manila",
-    "imageUrl": "https://fr8wff00-a.akamaihd.net/philippines/wp-content/uploads/2016/09/Photo-from-Manila-Ocean-Park-Blog.jpg",
-    "price": "300.3",
-    "priceCurrency": "km",
-    "lat": 16.6956,
-    "lng": 120.3357
   }
   
 ]
