@@ -108,5 +108,14 @@
     "priceCurrency": "km",
     "lat": 16.2900,
     "lng": 120.6310
+  },
+  {
+    "id":789 ,
+    "name": "Luna Town Proper",
+    "imageUrl": "https://mw2.google.com/mw-panoramio/photos/medium/39511765.jpg",
+    "price": "My Home Town",
+    "priceCurrency": "km",
+    "lat": 16.8308,
+    "lng": 120.3551
   }
 ]
